@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App look</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_second_screen">SecondScreen</string>
+</resources>
